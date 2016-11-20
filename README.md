@@ -5,8 +5,9 @@ designed for writing networking, kernel and event stuff code.
 
 start
 ====
-    cd joe && make
-    ./joe
+    # apt-get install libreadline-dev
+    $ cd joe && make
+    $ ./joe
 
 
 status
